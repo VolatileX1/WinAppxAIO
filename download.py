@@ -1,3 +1,5 @@
+Set-ExecutionPolicy Unrestricted -Force
+
 $apiUrl = "https://store.rg-adguard.net/api/GetFiles"
 
 $productUrl = "https://www.microsoft.com/store/productId/9nblggh5r558" # To Do
